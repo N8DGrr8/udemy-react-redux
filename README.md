@@ -2,6 +2,9 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+### Intro 
+This a repo for my Udemy class on ReactJS. 
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
